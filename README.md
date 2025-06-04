@@ -31,17 +31,9 @@ While the MCP server can be used with an AI Agent (like n8n) the REST endpoints 
 
 # Examples
 
-<table>
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/1b488e7d-1b40-439d-8767-6ab51dbc0922" width="480" height="270"></video>
-    </td>
-    <td>
-      <video src="https://github.com/user-attachments/assets/bb7ce80f-e6e1-44e5-ba4e-9b13d917f55b" width="270" height="480"></video>
-    </td>
-<td>
-  </tr>
-</table>
+[Check out the video 1](https://youtube.com/shorts/APF0Q75FeHA)
+
+[Check out the video 2](https://youtube.com/shorts/GZi_3-bMZTI)
 
 # Features
 
