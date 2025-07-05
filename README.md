@@ -80,7 +80,7 @@ Each video is assembled from multiple scenes. These scenes consists of
 ### Docker Command
 
 ```jsx
-docker run -it --rm --name short-video-maker -p 3123:3123 -e LOG_LEVEL=debug -e PEXELS_API_KEY= bilalnaseer/free-video-maker:latest
+docker run -it --rm --name short-video-maker -p 3123:3123 -e LOG_LEVEL=debug -e PEXELS_API_KEY= mahendarkumarmisraramji/free-video-maker:latest
 ```
 
 
